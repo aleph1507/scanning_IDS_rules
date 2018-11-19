@@ -1,0 +1,42 @@
+notes
+Figure 1. IP protocol header
+Figure 2. TCP protocol header
+Figure 3. UDP protocol header
+Figure 4. Snort log of No Ping scan
+Figure 5. Suricata log of No Ping scan
+Figure 6. Snort log of TCP Connect scan
+Figure 7. Suricata log of TCP Connect scan
+Figure 8. Snort log of Xmas scan
+Figure 9. Suricata log of Xmas scan
+Figure 10. Snort log of FIN scan
+Figure 11. Suricata log of FIN scan
+Figure 12. Snort log of NULL scan
+Figure 13. Suricata log of NULL scan
+Figure 14 Suricata log of UDP scan
+Figure 15. Snort log of SYN scan
+Figure 16. Suricata log of SYN scan
+
+1. Introduction 
+2.  Network protocols
+       2.1 IP (Internet Protocol)
+       2.2 TCP (Transmission Control Protocol)
+       2.3 UDP (User Datagram Protocol)
+3. Attack techniques and tools
+       3.1 nMap
+       3.2 Nessus
+       3.3 Metasploit
+4. Techniques used for attack detection and protection against attacks
+       4.1 Firewall
+       4.2 IDS/IPS 
+       4.3 Snort
+       4.4 Suricata
+5. Testing and analysis of optimal IDS rules for different scan types
+       5.1 Host Discovery
+       5.2 Port Scanning
+6. Different scans and appropriate rules
+7. Creating optimal models of IDS rules concerning different network environments
+       7.1 Small and medium-sized organizations’ networks and appropriate rules
+       7.2 Networks of IT organizations and appropriate rules
+       7.3 Network of medium-sized and large organizations and appropriate rules
+8. Conclusion
+9. References
